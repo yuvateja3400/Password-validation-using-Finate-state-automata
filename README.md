@@ -87,11 +87,6 @@ A visual DFA state diagram is included in the project files.
 
 ---
 
-## 👨‍💻 Authors
-
-- CH. Yuva Teja – [CSE18023]
-- V. Manoj Saiprakash – [CSE18136]
-- I. Yashwanth – [CSE18043]
 
 Project submitted at **Amrita Vishwa Vidyapeetham**, Bengaluru Campus.
 
